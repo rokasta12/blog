@@ -1,13 +1,11 @@
 ---
-title: Sunflower Sutra
+title: Single Layered Rosenblatt's Perceptron
 author: Allen Ginsberg
-date: 2019-07-31T07:00:00Z
-hero_image: "/src/assets/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+date: 2019-07-31T07:00:00.000+00:00
+hero_image: "/src/assets/content/images/jeremy-thomas-4dpaqftbvka-unsplash.jpg"
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
-
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+### **Single layered Rosenblatts Perceptron**
 
 ![](/src/assets/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
 
