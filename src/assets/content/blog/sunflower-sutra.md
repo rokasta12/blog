@@ -1,7 +1,7 @@
 ---
 title: Single Layered Rosenblatt's Perceptron
-author: Allen Ginsberg
-date: 2019-07-31T07:00:00.000+00:00
+author: Bedirhan Celayir
+date: 2019-07-31T07:00:00Z
 hero_image: "/src/assets/content/images/jeremy-thomas-4dpaqftbvka-unsplash.jpg"
 
 ---
