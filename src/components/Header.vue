@@ -4,6 +4,7 @@
             <g-link to="/" exact>
                 <h1>{{ $static.metadata.siteName }}</h1>
             </g-link>
+                <h2>Personal Blog-Website</h2>
             <div>
                 <h1>
                     <g-link :to="infoLink">
@@ -44,9 +45,9 @@ export default {
 
 <style>
 .header h1 {
-    margin-bottom: 0; 
+    margin-bottom: 0;
 }
-  
+
 .nav {
     padding: 1.5rem 1.25rem;
     border-bottom: 1px solid #EBEBEB;
@@ -59,7 +60,7 @@ export default {
 .nav img {
      margin-bottom: 0;
 }
-  
+
 @media (min-width: 768px) {
     .header {
       height: 100vh;
@@ -67,7 +68,7 @@ export default {
       left: 0;
       top: 0;
     }
-    
+
     .nav {
       padding: 2rem;
       width: 30vw;
