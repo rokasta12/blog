@@ -13,7 +13,7 @@ This project is hosted on github and it wasn't necesarry to deploy client and se
 
 This is file structure of project.
 
-![](/src/assets/content/images/file-structure.PNG)
+![](/src/assets/content/images/file-structure.PNG "Project Structure")
 
 Start with installing dependancies
 
