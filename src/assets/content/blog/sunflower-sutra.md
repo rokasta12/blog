@@ -6,6 +6,8 @@ hero_image: "/src/assets/content/images/jeremy-thomas-4dpaqftbvka-unsplash.jpg"
 
 ---
 ### **Single layered Rosenblatts Perceptron**
+Single layered Rosenblatts Perceptron
+
 
 ![](/src/assets/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
 
