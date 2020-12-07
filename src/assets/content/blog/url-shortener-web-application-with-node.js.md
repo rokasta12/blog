@@ -11,4 +11,36 @@ This small project has an Express api that user can send url that wants to make 
 
 This project is hosted on github and it wasn't necesarry to deploy client and server seperately and also used Vue from cdn.
 
-    npm install express morgan cors helmet yup monk path dotenv 
+This is file structure of project.
+
+![](/src/assets/content/images/file-structure.PNG)
+
+Start with installing dependancies
+
+    npm install express morgan cors helmet yup monk path dotenv nanoid slowDown rateLimit path 
+
+Now lets require them to use these libraries.
+
+    const express = require("express");
+    const morgan = require("morgan");
+    const cors = require("cors");
+    const helmet = require("helmet");
+    let yup = require("yup");
+    const { nanoid } = require("nanoid");
+    const monk = require("monk");
+    const path = require("path");
+    const rateLimit = require("express-rate-limit");
+    const slowDown = require("express-slow-down");
+
+Now lets connect mongoDB with our app and 
+
+    /* monk connects us to db */
+    const db = monk(process.env.MONGO_URI);
+    
+    /* Indexing urls with their slug*/
+    const urls = db.get("urls");
+    urls.createIndex({ slug: 1 }, { unique: true });
+    const app = express();
+    
+
+Now lets connect mongoDB with our app and 
