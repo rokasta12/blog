@@ -43,4 +43,23 @@ Now lets connect mongoDB with our app and
     const app = express();
     
 
+Start express app and use middlewares.
+
+    const app = express();
+    app.enable("trust proxy");
+    app.use(helmet());
+    app.use(morgan("common"));
+    app.use(cors());
+    
+
+Handle body parsing with express.json no need to use external body-parser.
+
+And static file serving directory also we specify our 404 file to handle 404 errors.
+
+    app.use(express.json());
+    app.use(express.static("./public"));
+    const notFoundPath = path.join(__dirname, "public/404.html");
+
+Now lets connect mongoDB with our app and 
+
 Now lets connect mongoDB with our app and 
