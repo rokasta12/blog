@@ -1,21 +1,29 @@
 ---
 title: Single Layered Rosenblatt's Perceptron
 author: Bedirhan Celayir
-date: 2019-07-31T07:00:00Z
-hero_image: "/src/assets/content/images/jeremy-thomas-4dpaqftbvka-unsplash.jpg"
+date: 2019-07-31T07:00:00.000+00:00
+hero_image: "/src/assets/content/images/sonja-punz-N47B_zibNGo-unsplash.jpg"
 
 ---
-### **Single layered Rosenblatts Perceptron**
-Single layered Rosenblatts Perceptron
+### **Single layer Rosenblatts Perceptron - RAW Python** 
 
+Single layered Rosenblatts Perceptron 
 
-![](/src/assets/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
+Rosenblatt's approach to neural networks was really important and also contributed this area so much , lets look implementation of this algorithm with Python.
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+First this perceptron can only classify two classes that can be linearly seperable.If your data is not linearly seperable you have to use a non-linear transform to seperate linearly.(Generally we transfer our data to  higher dimensions)
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
+ToDo
 
-\--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+> -Generate data
+>
+> \-Seperate Training and Test data and Shuffle Them
+>
+> \-Train  data 
+>
+> \-And visualize test data and decision surface
+
+Now  we need to generate linearly seperable data.
 
 # “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
 
