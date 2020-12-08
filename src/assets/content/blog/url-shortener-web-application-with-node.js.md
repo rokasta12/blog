@@ -11,7 +11,7 @@ This small project has an Express api that user can send url that wants to make 
 
 This project is hosted on github and it wasn't necesarry to deploy client and server seperately and also used Vue from cdn.
 
-#### [Demo](https://urlkisaltici.herokuapp.com/ "Demo - App")
+#### [Demo](https://urlkisaltici.herokuapp.com/ "Demo - App") ----- [Github Code](https://github.com/rokasta12/url-shortener "Code")
 
 This is file structure of project.
 
