@@ -4,7 +4,6 @@
             <g-link to="/" exact>
                 <h1>{{ $static.metadata.siteName }}</h1>
             </g-link>
-                <h2>Personal Blog-Website</h2>
             <div>
                 <h1>
                     <g-link :to="infoLink">
