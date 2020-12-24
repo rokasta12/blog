@@ -1,11 +1,11 @@
 {
   "description": "<p>This blog was created with>Forestry</a> &amp; <a href=\"https://gridsome.org/\" title=\"Gatsby Link\">Gridsome</a></p>",
-  "cta": "<p>To download my cv  click <a href=\"https://bedirhancelayir.netlify.app/\" title=\"Repo Url\">here</a>.</p>",
+  "cta": "<p>To download my cv click <a href=\"http://github.com/rokasta12/blog/raw/master/src/assets/content/images/CV_BedirhanCelayir.pdf\" title=\"CV\">here</a>.</p>",
   "contact": {
     "email": "celayirbedirhan@gmail.com",
     "twitter_handle": "@CelayirBedirhan",
     "github_handle": "@rokasta12"
   },
-  "background_color": "#B1BCBC",
+  "background_color": "#8C9CA9",
   "text_color": "#ebebeb"
 }
