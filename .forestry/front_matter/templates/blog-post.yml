@@ -25,6 +25,5 @@ fields:
   name: hero_image
   label: hero_image
 pages:
-- src/assets/content/blog/song-of-myself.md
 - src/assets/content/blog/sunflower-sutra.md
 - src/assets/content/blog/url-shortener-web-application-with-node.js.md
